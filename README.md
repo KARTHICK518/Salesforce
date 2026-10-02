@@ -12,7 +12,7 @@ This project implements an end-to-end automotive dealership and service manageme
 - **Test Drive Scheduling (`Vehicle_Test_Drive__c`)**: Test drive bookings, customer feedback, and vehicle assignment.
 - **Service Requests (`Vehicle_Service_Request__c`)**: Maintenance schedules, repair tickets, and customer support.
 
-Project documentation and design specifications can be found in [`Documentation/Project Documentation.pdf`](Documentation/Project%20Documentation.pdf).
+Project documentation and design specifications can be found in [`Documentation/Project-Documentation.pdf`](Documentation/Project-Documentation.pdf).
 
 ---
 
